@@ -14,10 +14,9 @@ Deep Search also provides a <a href="https://ds4sd.github.io/deepsearch-toolkit/
 |:-:|:-:|
 |![image](profile/images/inspector-image.png)|![table](profile/images/inspector-table.png)|
 |List resolution| Math Formula |
-|:-:|:-:|
-|![list](profile/images/inspector-list.png)|![list](profile/images/inspector-math.png)|
-|Complex Layout||
-|:-:|:-:|
+|![list](profile/images/inspector-list.png)|![math](profile/images/inspector-math.png)|
+|Complex Layout|
+|![complex](profile/images/inspector-complex.png)|
 
 ## Publications
 
