@@ -10,7 +10,9 @@ Deep Search also provides a <a href="https://ds4sd.github.io/deepsearch-toolkit/
 
 ## Gallery
 
-
+|First Image|Second Image|Third Image|
+|:-:|:-:|:-:|
+|![First Image](profile/images/inspector-image.png)|![Second Image](profile/images/inspector-table.png)| ![Second Image](profile/images/inspector-list.png)|
 
 ## Publications
 
