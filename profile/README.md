@@ -1,4 +1,4 @@
-**Welcome to IBM Deep Search**
+## Welcome to IBM Deep Search
 
 <img align="left" width="180" height="180" src="profile/images/workspace.svg">
 
@@ -6,7 +6,11 @@
 
 Deep Search also provides a <a href="https://ds4sd.github.io/deepsearch-toolkit/">programmatic access</a> to the service, for easy integration with other tools or in order to do bulk conversion. Our <a href=https://github.com/DS4SD/deepsearch-toolkit> python toolkit</a> provides these functionalities both as a client and library.  
 
+<br>
+
 ## Gallery
+
+
 
 ## Publications
 
