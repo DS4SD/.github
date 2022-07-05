@@ -20,4 +20,5 @@ Deep Search also provides a <a href="https://ds4sd.github.io/deepsearch-toolkit/
 
 ## Publications
 
-Find here our extensive list of publications!
+[Find here our extensive list of publications!](profile/docs/PAPERS.md)
+
