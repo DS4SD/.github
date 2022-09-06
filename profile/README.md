@@ -8,6 +8,10 @@ Deep Search also provides a <a href="https://ds4sd.github.io/deepsearch-toolkit/
 
 <br>
 
+## Publications
+
+[Find here our extensive list of publications!](profile/docs/PAPERS.md)
+
 ## Gallery
 
 |Image extraction|Table Understanding|
@@ -18,7 +22,5 @@ Deep Search also provides a <a href="https://ds4sd.github.io/deepsearch-toolkit/
 |Complex Layout|Colored layout|
 |![complex](profile/images/inspector-complex-1.png)|![complex](profile/images/inspector-complex-2.png)|
 
-## Publications
 
-[Find here our extensive list of publications!](profile/docs/PAPERS.md)
 
