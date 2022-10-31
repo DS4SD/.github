@@ -11,5 +11,6 @@ This is a list of latest papers contributing to the Deep Search platform.
 **Knowledge Extraction & Representation**
 
 - <a href="https://arxiv.org/abs/2202.04350">pNLP-Mixer: an Efficient all-MLP Architecture for Language</a> [Submitted]
+- <a href="https://arxiv.org/abs/2210.13118">Unsupervised Term Extraction for Highly Technical Domains</a> [EMNLP]
 - <a href="https://doi.org/10.1002/ail2.20">Corpus Processing Service: A Knowledge Graph Platform to perform deep data exploration on corpora</a> [Applied AI Letters, 2020]
 - <a href="https://doi.org/10.1109/IPDPS.2016.34">Stochastic Matrix-Function Estimators: Scalable Big-Data Kernels with High Performance</a> [IPDPS, 2016, Best Paper Award]
