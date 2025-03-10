@@ -19,7 +19,7 @@ The key repositories of Docling are:
 - [docling-core](https://github.com/DS4SD/docling-core) -  The definition of types, transforms, serializers, etc. If it has to do with the `DoclingDocument` you will find it here.
 - [docling-parse](https://github.com/DS4SD/docling-parse) - The backend PDF parser used by Docling.
 - [docling-serve](https://github.com/DS4SD/docling-serve) - The FastAPI wrappers for running Docling as REST API and distribute large jobs.
-- [docling-serve](https://github.com/DS4SD/docling-ibm-models) - The AI models powering Docling.
+- [docling-ibm-models](https://github.com/DS4SD/docling-ibm-models) - The AI models powering Docling.
 
 ### Deep Search
 
